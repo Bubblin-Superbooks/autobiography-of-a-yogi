@@ -1,15 +1,7 @@
 [
   {
-    "tag": "pre",
-    "innerHtml": "<code>\"Except ye see signs and wonders,  \nye will not believe.\" - John  \n\n– Paramhansa Yogananda  \n\n_Dedicated To The Memory Of_  \n\nLUTHER BURBANK  </code>"
-  },
-  {
     "tag": "h4",
     "innerHtml": "Preface"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "By W. Y. EVANS-WENTZ, M.A., D.Litt., D.Sc.<br>Jesus College, Oxford; Author of<br><em>The Tibetan Book of the Dead,<br>Tibet's Great Yogi Milarepa,<br>Tibetan Yoga and Secret Doctrines,</em> etc."
   },
   {
     "tag": "p",
@@ -24,11 +16,15 @@
     "innerHtml": "Sri Yukteswar was of gentle mien and voice, of pleasing presence, and worthy of the veneration which his followers spontaneously accorded to him. Every person who knew him, whether of his own community or not, held him in the highest esteem. I vividly recall his tall, straight, ascetic figure, garbed in the saffron-colored garb of one who has renounced worldly quests, as he stood at the entrance of the hermitage to give me welcome. His hair was long and somewhat curly, and his face bearded. His body was muscularly firm, but slender and well-formed, and his step energetic. He had chosen as his place of earthly abode the holy city of Puri, whither multitudes of pious Hindus, representative of every province of India, come daily on pilgrimage to the famed Temple of Jagannath, \"Lord of the World.\" It was at Puri that Sri Yukteswar closed his mortal eyes, in 1936, to the scenes of this transitory state of being and passed on, knowing that his incarnation had been carried to a triumphant completion. I am glad, indeed, to be able to record this testimony to the high character and holiness of Sri Yukteswar. Content to remain afar from the multitude, he gave himself unreservedly and in tranquillity to that ideal life which Paramhansa Yogananda, his disciple, has now described for the ages. W. Y. EVANS-WENTZ"
   },
   {
-    "tag": "p",
-    "innerHtml": "❁ Oxford University Press, 1935."
+    "tag": "pre",
+    "innerHtml": "<code>By W. Y. EVANS-WENTZ, M.A., D.Litt., D.Sc.  \nJesus College, Oxford; Author of  \n_The Tibetan Book of the Dead,  \nTibet's Great Yogi Milarepa,  \nTibetan Yoga and Secret Doctrines,_ etc.\n\n_❁ Oxford University Press, 1935._</code>"
   },
   {
-    "tag": "p",
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
     "innerHtml": "Author's Acknowledgments"
   },
   {
@@ -44,8 +40,8 @@
     "innerHtml": "Paramhansa Yogananda"
   },
   {
-    "tag": "p",
-    "innerHtml": "<em>October 28, 1945<br>Encinitas, California</em>"
+    "tag": "blockquote",
+    "innerHtml": "<p><em>October 28, 1945<br>Encinitas, California</em></p>"
   },
   {
     "tag": "hr",
@@ -169,11 +165,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<p>Bhagabati Charan Ghosh<br><em>A Disciple of Lahiri Mahasaya</em></p>"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Early in their married life, my parents became disciples of a great master, Lahiri Mahasaya of Benares. This contact strengthened Father's naturally ascetical temperament. Mother made a remarkable admission to my eldest sister Roma: \"Your father and myself live together as man and wife only once a year, for the purpose of having children.\""
+    "innerHtml": "<p>Bhagabati Charan Ghosh<br><em>A Disciple of Lahiri Mahasaya</em>\nEarly in their married life, my parents became disciples of a great master, Lahiri Mahasaya of Benares. This contact strengthened Father's naturally ascetical temperament. Mother made a remarkable admission to my eldest sister Roma: \"Your father and myself live together as man and wife only once a year, for the purpose of having children.\"</p>"
   },
   {
     "tag": "p",
@@ -668,6 +660,10 @@
     "innerHtml": "❁ A customary gesture of respect to <em>sadhus</em> ."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 3"
   },
@@ -946,6 +942,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ See chapter ."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -1436,6 +1436,10 @@
     "innerHtml": "❁ Ahankara, egoism; literally, \"I do.\" The root cause of dualism or illusion of <em>maya</em>, whereby the subject (ego) appears as object; the creatures imagine themselves to be creators."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 5"
   },
@@ -1776,6 +1780,10 @@
     "innerHtml": "This noted French scientist has produced liquid air by an expansion method in which he has been able to separate the various gases of the air, and has discovered various means of mechanical utilization of differences of temperature in sea water."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 6"
   },
@@ -2104,6 +2112,10 @@
     "innerHtml": "❁ \"Prince Princess\"-so named to indicate that this beast possessed the combined ferocity of tiger and tigress."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 7"
   },
@@ -2314,6 +2326,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ The saint's full name was Nagendranath Bhaduri. <em>Math</em> means hermitage or <em>ashram</em>."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -2560,16 +2576,16 @@
     "innerHtml": "❁ Translated from the Bengali of Rabindranath Tagore, by Manmohan Ghosh, in <em>Viswa-Bharati.</em>"
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 9"
   },
   {
     "tag": "h3",
     "innerHtml": "The Blissful Devotee And His Cosmic Romance"
-  },
-  {
-    "tag": "p",
-    "innerHtml": ">"
   },
   {
     "tag": "p",
@@ -2830,6 +2846,10 @@
   {
     "tag": "p",
     "innerHtml": "Master Mahasaya's choice of a word was, then, peculiarly justified."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -3242,6 +3262,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ \"Divine teacher,\" the customary Sanskrit term for one's spiritual preceptor. I have rendered it in English as simply \"Master.\""
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -3662,6 +3686,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ Spiritual initiation; from the Sanskrit root <em>diksh</em>, to dedicate oneself."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -4712,6 +4740,10 @@
     "innerHtml": "❁ <em>Proverbs</em> 16:32."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 13"
   },
@@ -4980,6 +5012,10 @@
     "innerHtml": "❁ See ."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 14"
   },
@@ -5162,6 +5198,10 @@
   {
     "tag": "p",
     "innerHtml": "These Biblical words refer to the threefold nature of God as Father, Son, Holy Ghost (<em>Sat</em> , <em>Tat</em> , <em>Aum</em> in the Hindu scriptures). God the Father is the Absolute, Unmanifested, existing <em>beyond</em> vibratory creation. God the Son is the Christ Consciousness (Brahma or <em>Kutastha</em> <em>Chaitanya</em> ) existing <em>within</em> vibratory creation; this Christ Consciousness is the \"only begotten\" or sole reflection of the Uncreated Infinite. Its outward manifestation or \"witness\" is <em>Aum</em> or Holy Ghost, the divine, creative, invisible power which structures all creation through vibration. <em>Aum</em> the blissful Comforter is heard in meditation and reveals to the devotee the ultimate Truth."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -5496,6 +5536,10 @@
     "innerHtml": "❁ Folklore of all peoples contains references to incantations with power over nature. The American Indians are well-known to have developed sound rituals for rain and wind. Tan Sen, the great Hindu musician, was able to quench fire by the power of his song. Charles Kellogg, the California naturalist, gave a demonstration of the effect of tonal vibration on fire in 1926 before a group of New York firemen. \"Passing a bow, like an enlarged violin bow, swiftly across an aluminum tuning fork, he produced a screech like intense radio static. Instantly the yellow gas flame, two feet high, leaping inside a hollow glass tube, subsided to a height of six inches and became a sputtering blue flare. Another attempt with the bow, and another screech of vibration, extinguished it.\""
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 16"
   },
@@ -5828,6 +5872,10 @@
     "innerHtml": "❁ \"And the Lord God planted a garden eastward in Eden; and there he put the man whom he had formed.\"-<em>Gen</em> . 2:8. \"Therefore the Lord God sent him forth from the garden of Eden, to till the ground from whence he was taken.\"-<em>Gen</em> . 3:23. The divine man first made by God had his consciousness centered in the omnipotent single eye in the forehead (eastward). The all-creative powers of his will, focused at that spot, were lost to man when he began to \"till the ground\" of his physical nature."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 17"
   },
@@ -6080,6 +6128,10 @@
     "innerHtml": "❁ In 1936 I heard from a friend that Sasi was still in excellent health."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 18"
   },
@@ -6316,6 +6368,10 @@
     "innerHtml": "❁ I do not recall the name of Sri Yukteswar's friend, and must refer to him simply as \"Babu\" (Mister)."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 19"
   },
@@ -6466,6 +6522,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ The characteristic sound of dematerialization of bodily atoms."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -6678,6 +6738,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ Literally, \"of the mountains.\" Parvati, mythologically represented as a daughter of Himavat or the sacred mountains, is a name given to the <em>shakti</em> or \"consort\" of Shiva."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -6949,7 +7013,11 @@
   },
   {
     "tag": "p",
-    "innerHtml": "❁ See chapters  <em>notes</em> ."
+    "innerHtml": "❁ See chapters  <em>notes</em>."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -7190,6 +7258,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ The Hindu wife believes it is a sign of spiritual advancement if she dies before her husband, as a proof of her loyal service to him, or \"dying in harness.\""
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -7456,6 +7528,10 @@
     "innerHtml": "❁ <em>Matthew</em> 6:33."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 24"
   },
@@ -7548,12 +7624,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/autobiography-of-a-yogi/master/assets/images/shiva.jpg"
   },
   {
-    "tag": "br",
-    "innerHtml": ""
-  },
-  {
-    "tag": "em",
-    "innerHtml": ""
+    "tag": "p",
+    "innerHtml": "<em>-by B. K. Mitra in \"Kalyana-Kalpatur\"</em>"
   },
   {
     "tag": "hr",
@@ -7658,6 +7730,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ In Plato's <em>Timaeus</em> story of Atlantis, he tells of the inhabitants' advanced state of scientific knowledge. The lost continent is believed to have vanished about 9500 B.C. through a cataclysm of nature; certain metaphysical writers, however, state that the Atlanteans were destroyed as a result of their misuse of atomic power. Two French writers have recently compiled a <em>Bibliography Of Atlantis</em>, listing over 1700 historical and other references."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -7884,6 +7960,10 @@
     "innerHtml": "❁ The Hindu scriptures declare that those who habitually speak the truth will develop the power of materializing their words. What commands they utter from the heart will come true in life."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 26"
   },
@@ -8094,6 +8174,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ <em>Bhagavad Gita</em>, VI:46."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -8400,6 +8484,10 @@
     "innerHtml": "❁ My meeting with Keshabananda is described in ."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 28"
   },
@@ -8588,6 +8676,10 @@
     "innerHtml": "❁ Prokash Das is the present director of our Yogoda Math (hermitage) at Dakshineswar in Bengal."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 29"
   },
@@ -8724,6 +8816,10 @@
     "innerHtml": "❁ <em>Gitanjali</em> (New York: Macmillan Co.). A thoughtful study of the poet will be found in <em>The Philosophy Of Rabindranath Tagore</em>, by the celebrated scholar, Sir S. Radhakrishnan (Macmillan, 1918). Another expository volume is B. K. Roy's <em>Rabindranath Tagore: The Man And His Poetry</em> (New York: Dodd, Mead, 1915). <em>Buddha And The Gospel Of Buddhism</em> (New York: Putnam's, 1916), by the eminent Oriental art authority, Ananda K. Coomaraswamy, contains a number of illustrations in color by the poet's brother, Abanindra Nath Tagore."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 30"
   },
@@ -8788,12 +8884,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/autobiography-of-a-yogi/master/assets/images/guru.jpg"
   },
   {
-    "tag": "br",
-    "innerHtml": ""
-  },
-  {
-    "tag": "em",
-    "innerHtml": ""
+    "tag": "p",
+    "innerHtml": "<em>-by B. K. Mitra in \"Kalyana-Kalpatur\"</em>"
   },
   {
     "tag": "hr",
@@ -9030,6 +9122,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ <em>Genesis</em> 1:26."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -9396,6 +9492,10 @@
     "innerHtml": "❁ The lives of Trailanga and other great masters remind us of Jesus' words: \"And these signs shall follow them that believe; In my name (the Christ consciousness) they shall cast out devils; they shall speak with new tongues; they shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.\"-<em>Mark</em> 16:17-18."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 32"
   },
@@ -9660,6 +9760,10 @@
     "innerHtml": "❁ One of the trinity of Godhead-Brahma, Vishnu, Shiva-whose universal work is, respectively, that of creation, preservation, and dissolution-restoration. Shiva (sometimes spelled Siva), represented in mythology as the Lord of Renunciates, appears in visions to His devotees under various aspects, such as Mahadeva, the matted-haired Ascetic, and Nataraja, the Cosmic Dancer."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 33"
   },
@@ -9922,6 +10026,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ \"Verily, verily, I say unto you, If a man keep my saying (remain unbrokenly in the Christ Consciousness), he shall never see death.\"-<em>John</em> 8:51."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -10332,6 +10440,10 @@
     "innerHtml": "❁ The man, Maitra, to whom Lahiri Mahasaya is here referring, afterward became highly advanced in self-realization. I met Maitra shortly after my graduation from high school; he visited the Mahamandal hermitage in Benares while I was a resident. He told me then of Babaji's materialization before the group in Moradabad. \"As a result of the miracle,\" Maitra explained to me, \"I became a lifelong disciple of Lahiri Mahasaya.\""
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 35"
   },
@@ -10698,6 +10810,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ One thinks here of Carlyle's observation in <em>Sartor Resartus:</em> \"The man who cannot wonder, who does not habitually wonder (and worship), were he president of innumerable Royal Societies and carried . . . the epitome of all laboratories and observatories, with their results, in his single head,-is but a pair of spectacles behind which there is no eye.\""
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -11104,6 +11220,10 @@
     "innerHtml": "❁ I <em>Corinthians</em> 15:54-55."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 37"
   },
@@ -11420,6 +11540,10 @@
     "innerHtml": "❁ Mme. Galli-Curci and her husband, Homer Samuels, the pianist, have been Kriya Yoga students for twenty years. The inspiring story of the famous prima donna's years of music has been recently published (<em>Galli-Curci's Life Of Song</em>, by C. E. LeMassena, Paebar Co., New York, 1945)."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 38"
   },
@@ -11626,6 +11750,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ New York: Century Co., 1922."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -11940,6 +12068,10 @@
     "innerHtml": "❁ A passage in Eusebius relates an interesting encounter between Socrates and a Hindu sage. The passage runs: \"Aristoxenus, the musician, tells the following story about the Indians. One of these men met Socrates at Athens, and asked him what was the scope of his philosophy. 'An inquiry into human phenomena,' replied Socrates. At this the Indian burst out laughing. 'How can a man inquire into human phenomena,' he said, 'when he is ignorant of divine ones?'\" The Aristoxenus mentioned was a pupil of Aristotle, and a noted writer on harmonics. His date is 330 B.C."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 40"
   },
@@ -12146,6 +12278,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ Mental training through certain concentration techniques has produced in each Indian generation men of prodigious memory. Sir T. Vijayaraghavachari, in the <em>Hindustan Times</em>, has described the tests put to the modern professional \"memory men\" of Madras. \"These men,\" he wrote, \"were unusually learned in Sanskrit literature. Seated in the midst of a large audience, they were equal to the tests that several members of the audience simultaneously put them to. The test would be like this: one person would start ringing a bell, the number of rings having to be counted by the 'memory man.' A second person would dictate from a paper a long exercise in arithmetic, involving addition, subtraction, multiplication, and division. A third would go on reciting from the <em>Ramayana</em> or the <em>Mahabharata</em> a long series of poems, which had to be reproduced; a fourth would set problems in versification which required the composition of verses in proper meter on a given subject, each line to end in a specified word, a fifth man would carry on with a sixth a theological disputation, the exact language of which had to be quoted in the precise order in which the disputants conducted it, and a seventh man was all the while turning a wheel, the number of revolutions of which had to be counted. The memory expert had simultaneously to do all these feats purely by mental processes, as he was allowed no paper and pencil. The strain on the faculties must have been terrific. Ordinarily men in unconscious envy are apt to depreciate such efforts by affecting to believe that they involve only the exercise of the lower functionings of the brain. It is not, however, a pure question of memory. The greater factor is the immense concentration of mind.\""
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -12490,6 +12626,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ His full title was Sri Sadasivendra Saraswati Swami. The illustrious successor in the formal Shankara line, Jagadguru Sri Shankaracharya of Sringeri Math, wrote an inspiring <em>Ode</em> dedicated to Sadasiva. <em>East-West</em> for July, 1942, carried an article on Sadasiva's life."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -13032,6 +13172,10 @@
     "innerHtml": "❁ Funeral customs in India require cremation for householders; swamis and monks of other orders are not cremated, but buried. (There are occasional exceptions.) The bodies of monks are symbolically considered to have undergone cremation in the fire of wisdom at the time of taking the monastic vow."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 43"
   },
@@ -13076,16 +13220,16 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/autobiography-of-a-yogi/master/assets/images/krishna.jpg"
   },
   {
-    "tag": "br",
-    "innerHtml": ""
-  },
-  {
-    "tag": "em",
-    "innerHtml": ""
-  },
-  {
     "tag": "p",
-    "innerHtml": "KRISHNA, ANCIENT PROPHET OF INDIA"
+    "innerHtml": "<em>-by B. K. Mitra in \"Kalyana-Kalpatur\"</em>"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Krishna, Ancient Prophet Of India"
   },
   {
     "tag": "p",
@@ -13538,6 +13682,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ Life and death as relativities of thought only. <em>Vedanta</em> points out that God is the only Reality; all creation or separate existence is <em>maya</em> or illusion. This philosophy of monism received its highest expression in the <em>Upanishad</em> commentaries of Shankara."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -14076,6 +14224,10 @@
     "innerHtml": "❁ That is, resist not evil with evil. (<em>Matthew</em> 5:38-39)"
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 45"
   },
@@ -14274,6 +14426,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ <em>Mark</em> 12:30."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -14708,6 +14864,10 @@
     "innerHtml": "❁ Potent vibratory chant. The literal translation of Sanskrit <em>mantra</em> is \"instrument of thought,\" signifying the ideal, inaudible sounds which represent one aspect of creation; when vocalized as syllables, a <em>mantra</em> constitutes a universal terminology. The infinite powers of sound derive from AUM, the \"Word\" or creative hum of the Cosmic Motor."
   },
   {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
     "tag": "h4",
     "innerHtml": "Chapter: 47"
   },
@@ -14858,6 +15018,10 @@
   {
     "tag": "p",
     "innerHtml": "❁ The chief disciple of the Christlike master Sri Ramakrishna."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h4",
@@ -15102,6 +15266,10 @@
   {
     "tag": "blockquote",
     "innerHtml": "<p>O God beautiful! O God beautiful!\nIn the forest, Thou art green,\nIn the mountain, Thou art high,\nIn the river, Thou art restless,\nIn the ocean, Thou art grave!\nTo the serviceful, Thou art service,\nTo the lover, Thou art love,\nTo the sorrowful, Thou art sympathy,\nTo the yogi, Thou art bliss!\nO God beautiful! O God beautiful!\nAt Thy feet, O I do bow!</p>"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
